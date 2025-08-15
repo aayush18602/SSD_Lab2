@@ -26,6 +26,7 @@
 
 ## Notes
 - Make sure to run the CREATE TABLE and INSERT statements before executing the procedures.
+- CHATGPT has been used to understand cursors and get help in q1 and q4;
 
 ## Git Repository Link
 https://github.com/aayush18602/SSD_Lab2
